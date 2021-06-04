@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>road.jpg</file>
+        <file>grass.jpg</file>
+		<file>sky.jpg</file>
+        <file>fuel.jpg</file>
+    </qresource>
+</RCC>
